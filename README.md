@@ -7,8 +7,8 @@
 
 ## تصاویری از محیط برنامه
 
-<img src="https://github.com/user-attachments/assets/41b7fb6d-c36c-429b-8acf-c97e0aaf332f" width="300"> 
-<img src="https://github.com/user-attachments/assets/9de19a6d-e910-4941-93b5-9af0792778e1" width="300">   <img src="https://github.com/user-attachments/assets/fe9b83d8-5a5d-413c-beb3-9fd579944434" width="300">
+<img src="https://github.com/user-attachments/assets/41b7fb6d-c36c-429b-8acf-c97e0aaf332f" width="250"> 
+<img src="https://github.com/user-attachments/assets/9de19a6d-e910-4941-93b5-9af0792778e1" width="250">   <img src="https://github.com/user-attachments/assets/fe9b83d8-5a5d-413c-beb3-9fd579944434" width="250">
 <br>
 
 ##
