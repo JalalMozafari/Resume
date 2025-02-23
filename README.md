@@ -6,7 +6,7 @@
 یک دیوار و...
 
 ## تصاویری از محیط برنامه:
-<<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/e1913aa2-1989-400f-9260-c9d7a8b06ee5)" width="48"> >
+<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/e1913aa2-1989-400f-9260-c9d7a8b06ee5)" width="48">
 
 
  ![Alt text](https://github.com/JalalMozafari/Resume/blob/8c2b074065b585a6d77894ff2f4e0b0fe7935f55/Gg.jpg  width="48")
