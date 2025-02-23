@@ -7,10 +7,9 @@
 
 ## تصاویری از محیط برنامه
 
-<img src="https://github.com/user-attachments/assets/6f73a5cf-4bfe-4be0-a849-baa00abe27bd" width="200">
+<img src="https://github.com/user-attachments/assets/6f73a5cf-4bfe-4be0-a849-baa00abe27bd" width="250"><img src="https://github.com/user-attachments/assets/6f73a5cf-4bfe-4be0-a849-baa00abe27bd" width="250">
 
 
-# Project Title![Screenshot_20250223_114724_com example tajer](https://github.com/user-attachments/assets/6f73a5cf-4bfe-4be0-a849-baa00abe27bd)
 
 
 Simple overview of use/purpose.
