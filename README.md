@@ -1,6 +1,13 @@
-# Resume
+# فصل کار
+##توضیحات: 
+این اپلیکیشن در زمینه کار یابی برای مشاغل کوتاه مدت چند روزه
+فعالیت دارد مانند نیاز به چند نیرو برای بردداشت میوه و یا نیاز به
+چند ماشین برای درو کردن زمین یا نیاز به چند کارگر برای تخریب
+یک دیوار و...
 
-![Alt text](https://github.com/JalalMozafari/Resume/blob/8c2b074065b585a6d77894ff2f4e0b0fe7935f55/1.png)
+##تصاویری از محیط برنامه:
+![Screenshot_20250223_114724_com example tajer](https://github.com/user-attachments/assets/e1913aa2-1989-400f-9260-c9d7a8b06ee5)
+
 
 و در این قسمت مشاهده میکنید <br />
  ![Alt text](https://github.com/JalalMozafari/Resume/blob/8c2b074065b585a6d77894ff2f4e0b0fe7935f55/Gg.jpg)
